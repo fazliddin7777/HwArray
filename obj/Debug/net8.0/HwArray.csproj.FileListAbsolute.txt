@@ -1,0 +1,14 @@
+C:\Users\User\Lessons\HwArray\bin\Debug\net8.0\HwArray.exe
+C:\Users\User\Lessons\HwArray\bin\Debug\net8.0\HwArray.deps.json
+C:\Users\User\Lessons\HwArray\bin\Debug\net8.0\HwArray.runtimeconfig.json
+C:\Users\User\Lessons\HwArray\bin\Debug\net8.0\HwArray.dll
+C:\Users\User\Lessons\HwArray\bin\Debug\net8.0\HwArray.pdb
+C:\Users\User\Lessons\HwArray\obj\Debug\net8.0\HwArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Lessons\HwArray\obj\Debug\net8.0\HwArray.AssemblyInfoInputs.cache
+C:\Users\User\Lessons\HwArray\obj\Debug\net8.0\HwArray.AssemblyInfo.cs
+C:\Users\User\Lessons\HwArray\obj\Debug\net8.0\HwArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Lessons\HwArray\obj\Debug\net8.0\HwArray.dll
+C:\Users\User\Lessons\HwArray\obj\Debug\net8.0\refint\HwArray.dll
+C:\Users\User\Lessons\HwArray\obj\Debug\net8.0\HwArray.pdb
+C:\Users\User\Lessons\HwArray\obj\Debug\net8.0\HwArray.genruntimeconfig.cache
+C:\Users\User\Lessons\HwArray\obj\Debug\net8.0\ref\HwArray.dll
